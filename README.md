@@ -10,4 +10,7 @@ Link to issues
 ![45d2bcd4b4a2f4401b17d1ea13abd1f](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/c4ed3fd1-4f7c-4e26-a53f-66f18a8ef157)  
 Result of merge
 ![cbc0333178f45017ff3085ba344513f](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/6f009ea9-ef18-46cb-88e4-2fbea1346a7d)  
+Task4  
+![435259d6f12f9f65e36854be583827e](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/389071a6-2977-48dd-96a4-a01011f48d5a)
+
 
