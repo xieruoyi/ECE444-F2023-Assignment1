@@ -11,6 +11,16 @@ Link to issues
 Result of merge
 ![cbc0333178f45017ff3085ba344513f](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/6f009ea9-ef18-46cb-88e4-2fbea1346a7d)  
 Task4  
-![435259d6f12f9f65e36854be583827e](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/389071a6-2977-48dd-96a4-a01011f48d5a)
+![435259d6f12f9f65e36854be583827e](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/389071a6-2977-48dd-96a4-a01011f48d5a)  
+Task5  
+![898d2f53b50594fb414810a1ba04357](https://github.com/xieruoyi/ECE444-F2023-Assignment1/assets/105222584/c6c3b45e-939c-42fd-9980-c258ba4fdab7)  
+I am sorry that some lines in my terminal disappeared, but what I did are:
+1. add c1 file, git add c1——> git commit -m "add c1" to commit all four files in develop and rebase  
+2. git rebase rebase develop  
+3. git rebase -i HEAD~4  
+4. change the order of them  
+5. type :wq in my terminal  
+6. "git log develop" to get the picture that I attached  
+
 
 
